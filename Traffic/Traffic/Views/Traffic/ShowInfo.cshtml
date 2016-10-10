@@ -1,0 +1,99 @@
+﻿@using Traffic;
+@{
+    ViewBag.Title = "ShowInfo";
+}
+<head>
+
+    
+
+</head>
+<h2>Show Street and Traffic Info</h2>
+<h4>Junction:</h4>
+<div id="nodeGrid"></div>
+<br />
+<h4>Street:</h4>
+<div id="streetGrid"></div>
+<br />
+<h4>Traffic:</h4>
+<div id="trafficGrid"></div>
+<script>
+
+    $(document).ready(function () {
+
+
+        var nodeData = new kendo.data.DataSource({
+            type: "json",
+            transport: {
+                read: "//localhost:64559/Traffic/GetNodes"
+            },
+            pageSize: 10
+        });
+        var streetData = new kendo.data.DataSource({
+            type: "json",
+            transport: {
+                read: "//localhost:64559/Traffic/GetStreet"
+            },
+            pageSize: 15
+        });
+        var trafficData = new kendo.data.DataSource({
+            type: "json",
+            transport: {
+                read: "//localhost:64559/Traffic/GetTraffic"
+            },
+            pageSize: 10
+        });
+
+
+
+        $("#nodeGrid").kendoGrid({
+            dataSource: nodeData,
+           
+            height: 400,
+            pageable: true,
+            columns: [
+
+                        { field: "NodeNum", title: "Node Number", template: '#= NodeNum#' },
+                        { field: "X", title: "x", template: '#= X#' },
+                        { field: "Y", title: "y", template: '#= Y#' },
+            ]
+        });
+        $("#streetGrid").kendoGrid({
+            dataSource: streetData,
+
+            height: 450,
+            pageable: true,
+            columns: [
+
+                        { field: "StreetNum", title: "Street Number", template: '#= StreetNum#' },
+                        { field: "StartNode", title: "Start Node Number", template: '#= StartNode#' },
+                        { field: "EndNode", title: "End Node Number", template: '#= EndNode#' },
+                        { field: "TR", title: "Traffic Rules", template: '# if(TR==0){# One Way #} else{#  Two Way  #}#' },
+            ]
+        });
+        $("#trafficGrid").kendoGrid({
+            dataSource: trafficData,
+
+            height: 400,
+            pageable: true,
+            columns: [
+
+                        { field: "TimeofDay", title: "Time", template: '#= TimeofDay#' },
+                        { field: "Entry_Junction", title: "Entry Junction(Node) No.", template: '#= Entry_Junction#' },
+                        { field: "Exit_Junction", title: "Exit Junction(Node) No.", template: '#= Exit_Junction#' },
+                        { field: "Colour", title: "Colour", template: '#= Colour#' },
+                        { field: "Makemodel", title: "Makemodel", template: '#= Makemodel#' },
+                        
+            ]
+        });
+
+
+
+
+
+
+
+    });
+
+
+
+</script>

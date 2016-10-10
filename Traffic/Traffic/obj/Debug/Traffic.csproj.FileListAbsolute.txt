@@ -1,0 +1,106 @@
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\ApplicationInsights.config
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\roslyn\csc.exe
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\roslyn\vbc.exe
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\roslyn\VBCSCompiler.exe
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\Traffic.dll.config
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\Traffic.dll
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\Traffic.pdb
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\Antlr3.Runtime.dll
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\Microsoft.AI.Web.dll
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\Newtonsoft.Json.dll
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\System.Web.Helpers.dll
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\System.Web.Mvc.dll
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\System.Web.Optimization.dll
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\System.Web.Razor.dll
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\System.Web.WebPages.dll
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\System.Web.WebPages.Razor.dll
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\WebGrease.dll
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\Antlr3.Runtime.pdb
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\Microsoft.AI.Web.xml
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\Newtonsoft.Json.xml
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\System.Web.Helpers.xml
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\System.Web.Mvc.xml
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\System.Web.Optimization.xml
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\System.Web.Razor.xml
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\System.Web.WebPages.xml
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\bin\System.Web.WebPages.Razor.xml
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\obj\Debug\Traffic.dll
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\obj\Debug\Traffic.pdb
+C:\Users\Wilson\Desktop\Traffic Exercise\Traffic\Traffic\obj\Debug\Traffic.csprojResolveAssemblyReference.cache
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\ApplicationInsights.config
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\roslyn\csc.exe
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\roslyn\System.Collections.Immutable.dll
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\roslyn\System.Reflection.Metadata.dll
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\roslyn\vbc.exe
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\roslyn\VBCSCompiler.exe
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\roslyn\VBCSCompiler.exe.config
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\Traffic.dll.config
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\Traffic.dll
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\Traffic.pdb
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\Antlr3.Runtime.dll
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\Microsoft.AI.Agent.Intercept.dll
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\Microsoft.AI.DependencyCollector.dll
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\Microsoft.AI.Web.dll
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\Microsoft.AI.WindowsServer.dll
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\Microsoft.ApplicationInsights.dll
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\Microsoft.Web.Infrastructure.dll
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\Newtonsoft.Json.dll
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\System.Web.Helpers.dll
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\System.Web.Mvc.dll
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\System.Web.Optimization.dll
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\System.Web.Razor.dll
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\System.Web.WebPages.Deployment.dll
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\System.Web.WebPages.dll
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\System.Web.WebPages.Razor.dll
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\WebGrease.dll
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\Antlr3.Runtime.pdb
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\Microsoft.AI.DependencyCollector.xml
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\Microsoft.AI.Web.xml
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\Microsoft.AI.WindowsServer.xml
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\Microsoft.ApplicationInsights.xml
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\Newtonsoft.Json.xml
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\System.Web.Helpers.xml
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\System.Web.Mvc.xml
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\System.Web.Optimization.xml
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\System.Web.Razor.xml
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\System.Web.WebPages.xml
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\System.Web.WebPages.Deployment.xml
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\bin\System.Web.WebPages.Razor.xml
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\obj\Debug\Traffic.csprojResolveAssemblyReference.cache
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\obj\Debug\Traffic.dll
+D:\visual studio 2015_Projects\Traffic Exercise\Traffic\Traffic\Traffic\obj\Debug\Traffic.pdb

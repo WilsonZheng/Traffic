@@ -1,0 +1,64 @@
+﻿@model List<LineViewModel>
+@{
+    ViewBag.Title = "ProcessDrawingData";
+
+}
+
+<h2>Street Plan</h2>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<body>
+    <canvas id="myCanvas" width="700" height="700"></canvas>
+    <script>
+        //generate random color for each street
+        function getRndColor() {
+            var r = 255*Math.random()|0,
+                g = 255*Math.random()|0,
+                b = 255*Math.random()|0;
+            return 'rgb(' + r + ',' + g + ',' + b + ')';
+        }
+        //define canvas and context
+        var canvas = document.getElementById('myCanvas');
+        var context = canvas.getContext('2d');
+
+        // draw x and y axis
+        context.beginPath();
+        context.moveTo(0,0);
+        context.lineTo(600, 0);
+        context.moveTo(0,0);
+        context.lineTo(0,500);
+        context.moveTo(0,0);
+        context.strokeText('X Axis',610,10);
+        context.strokeText('Y Axis',0,510);
+        context.stroke();
+        context.closePath();
+        // draw all street with the data passed from controller
+        @foreach ( var item in @Model) {
+
+         <text>
+
+        context.beginPath();
+        context.moveTo(@item.X,@item.Y);
+        context.lineTo(@item.X2, @item.Y2);
+
+        context.strokeText(
+            @if (item.Rules == 1) {<text>'1'</text>}else {<text>'2'</text> },
+            @if (item.X > item.X2) {<text>@item.X-(Math.abs((@item.X2-@item.X)/2))</text> } else {<text>@item.X2-(Math.abs((@item.X2-@item.X)/2))</text> },
+            @if (item.Y > item.Y2) {<text>@item.Y-(Math.abs((@item.Y2-@item.Y)/2))</text> } else {<text>@item.Y2-(Math.abs((@item.Y2-@item.Y)/2))</text> }
+            );
+        context.strokeStyle = getRndColor();
+        context.stroke();
+        context.closePath();
+        </text>
+
+        }
+
+
+
+    </script>
+
+</body>
+</html>
